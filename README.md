@@ -6,8 +6,7 @@ Two R workspaces (the source data), three main scripts, and several suppelentary
 
 The framework is shown in the figure below:
 
-[figure here]
-
+![image](https://user-images.githubusercontent.com/76802881/166885385-d4461a2a-483d-441f-bb52-7c292f2364a3.png)
 
 *Note that this is a comtanperory edition for review before publication. Possible revise can be made if necessary.*
 
